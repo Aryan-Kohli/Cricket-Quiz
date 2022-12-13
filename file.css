@@ -1,0 +1,180 @@
+body{
+    /* height:100vh; */
+     background: linear-gradient(91deg,white,skyblue,rgb(122, 159, 173));
+    font-family: 'Merriweather', serif;
+    margin: 0px 5px 0px 5px ;
+    padding: 0;
+}
+#headings
+{
+    margin-left: 40px;
+    margin-top: 60px;
+    text-align: center;
+}
+#image1
+{
+    border: 0px solid black;
+    border-radius: 50%;
+}
+#head1
+{
+    font-size: 58px;
+    color: rgb(92, 0, 84);
+    text-shadow: 0px 0px 1px black;
+    border-bottom: 10px solid black;
+}
+#head2
+{
+    font-size: 43px;
+    color: rgb(151, 73, 0);
+    text-shadow: 0px 0px 1px black;
+}
+#header
+{
+    display: flex;
+    flex-direction: row;
+
+}
+#tagline
+{
+    text-align: center;
+    font-size: 30px;
+    padding-left: 20px;
+    color:rgb(121, 27, 27);   
+}
+#q1 , #q2, #q3, #q4, #q5, #q6, #q7, #q8, #q9, #q10
+{
+    border-top: 3px solid brown;
+    border-bottom: 3px solid brown;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    color: rgb(124, 0, 0);
+}
+#q1h1,#q2h1, #q3h1, #q4h1, #q5h1, #q6h1, #q7h1, #q8h1, #q9h1, #q10h1
+{
+    color:rgb(6, 77, 0)
+}
+
+#clickq1
+{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfyR5w2Rb4GHHZcmTb6sjnxXkwPiCdMYiiIGbeWB3iDc-KYyNUYcmRGsg523Z4alGnBdU&usqp=CAU);
+    background-size: cover;
+    width:200px;
+    height:200px;
+    border:3px solid black;
+}
+#clickq1:hover{
+    background-image: url(https://us.123rf.com/450wm/smaglov/smaglov1410/smaglov141000027/smaglov141000027-golden-shining-metallic-3d-symbol-figure-2-isolated-on-white.jpg?ver=6);
+    background-size:cover ;
+}
+#clickq2
+{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfyR5w2Rb4GHHZcmTb6sjnxXkwPiCdMYiiIGbeWB3iDc-KYyNUYcmRGsg523Z4alGnBdU&usqp=CAU);
+    background-size: cover;
+    width:200px;
+    height:200px;
+    border:3px solid black;
+}
+#clickq2:hover{
+    background-image: url(https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/28/21/e4/2821e4a7-736a-4c85-92bd-3fc007c6bfbb/source/512x512bb.jpg);
+    background-size:cover ;
+}
+#clickq3
+{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfyR5w2Rb4GHHZcmTb6sjnxXkwPiCdMYiiIGbeWB3iDc-KYyNUYcmRGsg523Z4alGnBdU&usqp=CAU);
+    background-size: cover;
+    width:200px;
+    height:200px;
+    border:3px solid black;
+}
+#clickq3:hover{
+    background-image: url(https://i.guim.co.uk/img/media/3974125b6cc52067a019cc1e16f7fae163d919f1/0_123_3500_2100/master/3500.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=8bb6e4dfd618669a6c70bc13faa456a0);
+    background-size:cover ;
+}
+#clickq4
+{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfyR5w2Rb4GHHZcmTb6sjnxXkwPiCdMYiiIGbeWB3iDc-KYyNUYcmRGsg523Z4alGnBdU&usqp=CAU);
+    background-size: cover;
+    width:200px;
+    height:200px;
+    border:3px solid black;
+}
+#clickq4:hover{
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/New_Mexico_264.svg/1200px-New_Mexico_264.svg.png);
+    background-size:cover ;
+}
+#clickq5
+{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfyR5w2Rb4GHHZcmTb6sjnxXkwPiCdMYiiIGbeWB3iDc-KYyNUYcmRGsg523Z4alGnBdU&usqp=CAU);
+    background-size: cover;
+    width:200px;
+    height:200px;
+    border:3px solid black;
+}
+#clickq5:hover{
+    background-image: url(https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Cricket_India_Crest.svg/1200px-Cricket_India_Crest.svg.png);
+    background-size:cover ;
+}
+#clickq6
+{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfyR5w2Rb4GHHZcmTb6sjnxXkwPiCdMYiiIGbeWB3iDc-KYyNUYcmRGsg523Z4alGnBdU&usqp=CAU);
+    background-size: cover;
+    width:200px;
+    height:200px;
+    border:3px solid black;
+}
+#clickq6:hover{
+    background-image: url(https://i.pinimg.com/originals/29/2b/d5/292bd5c291ff709c415928ff94454259.png);
+    background-size:cover ;
+}
+#clickq7
+{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfyR5w2Rb4GHHZcmTb6sjnxXkwPiCdMYiiIGbeWB3iDc-KYyNUYcmRGsg523Z4alGnBdU&usqp=CAU);
+    background-size: cover;
+    width:200px;
+    height:200px;
+    border:3px solid black;
+}
+#clickq7:hover{
+    background-image: url(https://ih1.redbubble.net/image.1362641970.8846/st,small,507x507-pad,600x600,f8f8f8.jpg);
+    background-size:cover ;
+}
+#clickq8
+{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfyR5w2Rb4GHHZcmTb6sjnxXkwPiCdMYiiIGbeWB3iDc-KYyNUYcmRGsg523Z4alGnBdU&usqp=CAU);
+    background-size: cover;
+    width:200px;
+    height:200px;
+    border:3px solid black;
+}
+#clickq8:hover{
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/US_60.svg/2048px-US_60.svg.png);
+    background-size:cover ;
+}
+#clickq9
+{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfyR5w2Rb4GHHZcmTb6sjnxXkwPiCdMYiiIGbeWB3iDc-KYyNUYcmRGsg523Z4alGnBdU&usqp=CAU);
+    background-size: cover;
+    width:200px;
+    height:200px;
+    border:3px solid black;
+}
+#clickq9:hover{
+    background-image: url(https://i.pinimg.com/550x/45/ac/83/45ac83c209ba93bc92c399002af7e6a0.jpg);
+    background-size:cover ;
+}
+#clickq10
+{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfyR5w2Rb4GHHZcmTb6sjnxXkwPiCdMYiiIGbeWB3iDc-KYyNUYcmRGsg523Z4alGnBdU&usqp=CAU);
+    background-size: cover;
+    width:200px;
+    height:200px;
+    border:3px solid black;
+}
+#clickq10:hover{
+    background-image: url(https://i.pinimg.com/736x/e3/ed/46/e3ed46937c8f240f6729e6b5acafb744.jpg);
+    background-size:cover ;
+}
+
